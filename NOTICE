@@ -1,0 +1,9 @@
+swift-rubber-banding
+Copyright 2024 Hiroshi Kimura
+
+rubberBand.swift adapts Material Motion's rubberBand function from
+CGFloat to Double and exposes it as a public function.
+The original is licensed under the Apache License, Version 2.0.
+https://github.com/material-motion/material-motion-swift/blob/develop/src/operators/rubberBanded.swift
+
+Copyright 2016-present The Material Motion Authors. All Rights Reserved.

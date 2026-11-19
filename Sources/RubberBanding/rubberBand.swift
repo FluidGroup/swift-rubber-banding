@@ -1,3 +1,7 @@
+// Adapted from Material Motion's rubberBand function to use Double.
+// https://github.com/material-motion/material-motion-swift/blob/develop/src/operators/rubberBanded.swift
+// Copyright 2016-present The Material Motion Authors. All Rights Reserved.
+// SPDX-License-Identifier: Apache-2.0
 
 public func rubberBand(value: Double, min: Double, max: Double, bandLength: Double)
   -> Double
